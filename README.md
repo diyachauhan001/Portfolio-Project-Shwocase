@@ -1,3 +1,5 @@
+Basic mini project using React-JS
+
 <img width="1176" height="881" alt="image" src="https://github.com/user-attachments/assets/98f251e0-2d18-4ce7-a944-fd682a83967e" />
 
 
